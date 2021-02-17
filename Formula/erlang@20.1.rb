@@ -1,4 +1,4 @@
-class Erlang < Formula
+class ErlangAT201 < Formula
   desc "Programming language for highly scalable real-time systems"
   homepage "https://www.erlang.org/"
   # Download tarball from GitHub; it is served faster than the official tarball.
